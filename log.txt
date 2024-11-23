@@ -1,0 +1,11 @@
+commit 12e86c322b0f7857c1e0a55ce1ac9a8821393d2a
+Author: abderrahmane <abderrahmane.elfajri-etu@etu.univh2c.ma>
+Date:   Sat Nov 23 00:30:29 2024 +0100
+
+    Add Task1 folder with README.md
+
+commit 0c1b031d75f1d0f030cbcd72e6ad7bee2d49f7d0
+Author: abderrahmane <abderrahmane.elfajri-etu@etu.univh2c.ma>
+Date:   Sat Nov 23 00:13:43 2024 +0100
+
+    first commit
